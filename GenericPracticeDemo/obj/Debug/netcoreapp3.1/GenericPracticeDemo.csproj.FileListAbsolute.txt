@@ -1,0 +1,13 @@
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.exe
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.deps.json
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.runtimeconfig.json
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.runtimeconfig.dev.json
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.dll
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\bin\Debug\netcoreapp3.1\GenericPracticeDemo.pdb
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.dll
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.pdb
+C:\Users\PRITHVIL5\source\repos\GenericPracticeDemo\GenericPracticeDemo\obj\Debug\netcoreapp3.1\GenericPracticeDemo.genruntimeconfig.cache
